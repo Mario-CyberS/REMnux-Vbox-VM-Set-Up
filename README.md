@@ -33,7 +33,7 @@ REMnux provides a ready-made Linux distribution preloaded with:
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
   </a>
   <a href="https://remnux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-REMnux-cc0000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-REMnux-AA0000?style=for-the-badge&logo=Linux&logoColor=white"/>
   </a>
   <a href="https://www.inetsim.org/" target="_blank">
     <img src="https://img.shields.io/badge/-INetSim-darkblue?style=for-the-badge"/>
