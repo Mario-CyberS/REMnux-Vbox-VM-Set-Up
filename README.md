@@ -27,14 +27,25 @@ REMnux provides a ready-made Linux distribution preloaded with:
 
 ---
 
-## 🛠️ Tools Used  
+## 🛠️ Tools Used
 <div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-REMnux-cc0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-INetSim-darkblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux Terminal-black?style=for-the-badge"/>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+  </a>
+  <a href="https://remnux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-REMnux-cc0000?style=for-the-badge"/>
+  </a>
+  <a href="https://www.inetsim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-INetSim-darkblue?style=for-the-badge"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  </a>
+  <a href="https://man7.org/linux/man-pages/man1/bash.1.html" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux Terminal-black?style=for-the-badge"/>
+  </a>
 </div>
+
 
 ---
 
